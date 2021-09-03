@@ -1,0 +1,73 @@
+﻿.customDiv{
+   
+    background-color:silver;
+    text-align:center;
+    font-size:large;
+}
+
+#my-row {
+    display: table;
+    height:20%;
+}
+
+#my-row .panel {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+}
+
+/*.row {
+  min-height: 100px;
+  padding: 50px 0;
+  background: #eee;
+  position: relative;
+  overflow-x: visible;
+}
+
+.row:before,
+.row:after {
+  position: absolute;
+  content: "";
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  background: #ddd;
+  width: 100%;
+}*/
+
+.full-width {
+    width: 100vw;
+}
+
+body{color:white}
+
+.customDiv1 {
+  /* I added this just for fun */
+  background-color: skyblue;
+  color: white;
+  font-family: Century Gothic;
+  padding: 5px;
+  text-align: center;
+
+  /* The code that you need to copy */
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+
+.customDiv2 {
+  /* I added this just for fun */
+  background-color:burlywood;
+  color: white;
+  font-family: Century Gothic;
+  padding: 5px;
+  text-align: center;
+
+  /* The code that you need to copy */
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+
