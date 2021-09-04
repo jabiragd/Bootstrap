@@ -1,0 +1,39 @@
+﻿
+.customDiv1 {
+  /* I added this just for fun */
+  background-color: skyblue;
+  color: white;
+  font-family: Century Gothic;
+  padding: 5px;
+  text-align: center;
+
+  /* The code that you need to copy */
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+
+.customDiv2 {
+  /* I added this just for fun */
+  background-color:burlywood;
+  color: white;
+  font-family: Century Gothic;
+  padding: 5px;
+  text-align: center;
+
+  /* The code that you need to copy */
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+
+
+.FullWidthDiv {
+  /* The code that you need to copy */
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
